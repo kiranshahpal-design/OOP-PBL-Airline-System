@@ -1,0 +1,21 @@
+--- FLIGHTS DATA (Format: FlightNumber, Origin, Destination, TotalSeats, Type, SpecialAttribute) ---
+PK301, Karachi, Islamabad, 180, Domestic, 1500.0
+PK302, Islamabad, Karachi, 180, Domestic, 1500.0
+EK601, Lahore, Dubai, 250, International, Visa-Required
+EK602, Dubai, Lahore, 250, International, Visa-Required
+PA401, Peshawar, Quetta, 120, Domestic, 1200.0
+QR605, Islamabad, Doha, 300, International, Visa-Required
+CH101, Karachi, Gwadar, 12, Charter, Ali-Ahmad-Corp
+CH102, Lahore, Murree, 8, Charter, Khan-Travels
+EY241, Islamabad, AbuDhabi, 280, International, Visa-Required
+PK781, Lahore, London, 350, International, Visa-Required
+
+--- PASSENGERS DATA (Format: PassengerID, Name, Age, Type, SpecialAttribute) ---
+P001, Ahmad Khan, 28, Economy, 20
+P002, Zainab Bibi, 34, Business, 1.5
+P003, Bilal Mustafa, 45, FirstClass, 85.0
+P004, Sana Ahmed, 22, Economy, 25
+P005, Hamza Ali, 60, Business, 2.0
+P006, Maria John, 19, Economy, 15
+P007, Omer Farooq, 52, FirstClass, 90.0
+P008, Ayesha Malik, 31, Business, 1.5
